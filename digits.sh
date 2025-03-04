@@ -8,4 +8,4 @@ for i in {1000..2000};do
     fi
 done
 
-echo "Sum = $sum"
+echo $sum
